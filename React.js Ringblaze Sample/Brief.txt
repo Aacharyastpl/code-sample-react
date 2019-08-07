@@ -1,0 +1,7 @@
+Here i'm sharing with you zipfile from ringblaze project I did. It was a project in react 16 & react-apollo for using graph api's along with node js in backend using sequelize
+
+. I'm attaching DialPad & Contact Component & Container files with you
+
+Component contains all the rendering logics & ui
+
+Container code contains api interactions & connection with redux & apollo store. I have followed ES6 coding standards & airbnb eslint rules
